@@ -52,6 +52,11 @@
     margin: 24px 0;
 }
 
+#highlights{
+    padding: 24px;
+    background: linear-gradient(0deg, rgb(227, 255, 253),rgb(10, 136, 126)); 
+}
+
 #hero-content a:hover {
     background-color: rgb(255, 238, 0);
 }
